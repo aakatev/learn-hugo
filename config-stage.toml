@@ -1,0 +1,4 @@
+baseURL = "https://aakatev.github.io/learn-hugo/"
+languageCode = "en-us"
+title = "Staging Environment"
+publishDir = "docs"
