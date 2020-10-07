@@ -1,4 +1,4 @@
-baseURL = "https://learn-hugo-prod.netlify.app/"
+baseURL = "https://dazzling-curran-c212c7.netlify.app/"
 languageCode = "en-us"
 title = "Production Environment"
-publishDir = "docs"
+publishDir = "public"
