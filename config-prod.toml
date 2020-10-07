@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://learn-hugo-prod.netlify.app"
 languageCode = "en-us"
-title = "Production Environmenea"
+title = "Production Environment"
+publishDir = "docs"
